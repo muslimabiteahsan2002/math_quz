@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application  Math Quiz</string>
+    <string name="go">go</string>
+    <string name="second">second</string>
+    <string name="number">0/0</string>
+    <string name="question">2 + 2 = ?</string>
+    <string name="option">2</string>
+    <string name="answer">answer</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="your_score">YOUR SCORE</string>
+    <string name="game_over">--GAME OVER--</string>
+    <string name="start">START</string>
+</resources>
